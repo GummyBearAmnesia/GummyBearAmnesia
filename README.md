@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Ammu!
+## Hi there I'm GummyBearAmnesia and its nice to meet you!
 
 - 🔭 I’m currently working on a virtual study room project with my friends!
 - 🌱 I’m currently learning C++ for operating systems and game development :)
