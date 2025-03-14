@@ -1,7 +1,7 @@
 ## Hi there 👋 My name is Ammu!
 
 - 🔭 I’m currently working on a virtual study room project with my friends!
-- 🌱 I’m currently *trying* to learn C++ for operating systems and game development :)
+- 🌱 I’m currently learning C++ for operating systems and game development :)
 - 💬 You can reach me here at *gummybearamnesia@gmail.com* 
 - ⚡ Fun fact: I once jumped off a boat in the middle of the ocean ...
 
